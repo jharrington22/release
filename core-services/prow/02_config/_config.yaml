@@ -1324,6 +1324,7 @@ tide:
     - openshift/machine-config-operator
     - openshift/mdns-publisher
     - openshift/metal3-smart-exporter
+    - openshift/moactl
     - openshift/multus-cni
     - openshift/must-gather
     - openshift/node-feature-discovery
